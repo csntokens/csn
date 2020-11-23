@@ -1,0 +1,28 @@
+[{
+    "_id": "1",
+    "day": 1,
+    "payoutTotal": 367481632093,
+    "totalDividends": 98273830000,
+    "stakeSharesTotal": 87368819285711,
+    "__v": 0,
+    "createdAt": "2020-10-11T23:03:02.460Z",
+    "updatedAt": "2020-10-11T23:03:02.460Z"
+}, {
+    "_id": "2",
+    "day": 2,
+    "payoutTotal": 625299590017,
+    "totalDividends": 51694000000,
+    "stakeSharesTotal": 175401176098691,
+    "__v": 0,
+    "createdAt": "2020-10-11T23:03:02.460Z",
+    "updatedAt": "2020-10-11T23:03:02.460Z"
+}, {
+    "_id": "3",
+    "day": 3,
+    "payoutTotal": 772898588866,
+    "totalDividends": 31288000000,
+    "stakeSharesTotal": 562026107150788,
+    "__v": 0,
+    "createdAt": "2020-10-11T23:03:02.460Z",
+    "updatedAt": "2020-10-11T23:03:02.460Z"
+}]
